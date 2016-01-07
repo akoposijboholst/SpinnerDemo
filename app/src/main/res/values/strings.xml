@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SolarSystem</string>
+    <string name="choose_planet">Choose Planet</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <array name="planets_img">
+        <item>@drawable/mercury_img</item>
+        <item>@drawable/venus_img</item>
+        <item>@drawable/earth_img</item>
+        <item>@drawable/mars_img</item>
+        <item>@drawable/jupiter_img</item>
+        <item>@drawable/saturn_img</item>
+        <item>@drawable/uranus_img</item>
+        <item>@drawable/neptune_img</item>
+    </array>
+
+</resources>
